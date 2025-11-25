@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_VM1_name": {
+            "value": null
+        },
+        "virtualMachines_VM2_name": {
+            "value": null
+        },
+        "routeTables_routetable1_name": {
+            "value": null
+        },
+        "sshPublicKeys_keypairvm2_name": {
+            "value": null
+        },
+        "azureFirewalls_Firewall1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1520_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM1_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_firewall_public_IP_name": {
+            "value": null
+        },
+        "publicIPAddresses_Firewall_management_public_IP_name": {
+            "value": null
+        },
+        "disks_VM2_disk1_c04bca699204496f9387d65e519ef82e_externalid": {
+            "value": null
+        },
+        "networkInterfaces_vm255_z1_externalid": {
+            "value": null
+        },
+        "virtualNetworks_Vnet1_externalid": {
+            "value": null
+        }
+    }
+}
